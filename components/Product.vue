@@ -30,7 +30,7 @@
           </ul>
         </client-only>
         <hr>
-        <b-button target="_blank" :href="releasesUrl" variant="outline-primary">
+        <b-button target="_blank" :href="releasesUrl" variant="outline-success">
           <b-icon icon="download" />
           Download
         </b-button>

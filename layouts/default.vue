@@ -1,3 +1,5 @@
+<!-- trans rights! -->
+
 <template>
   <div>
     <Navbar/>
